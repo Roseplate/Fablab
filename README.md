@@ -1,5 +1,4 @@
 # Verkefni
-- - -
 ## Límmiði
 Ég hannaði verkefnið í InkScape. Í að gera límmiðan vildi ég gera Soulstamp eins og úr The Emperor's Soul eftir Brandon Sanderson. Ég fann list eftir Isaac Stewart en hún var gerð til að líta út ófullkomin og mannagerð sem hentar ekki vel fyrir límmiða þannig ég eyddi góðum tíma í að laga til útlínurnar.
 

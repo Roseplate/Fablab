@@ -28,3 +28,13 @@ Fyrir fatalímmiða ákvað ég að gera límmiða af eitt af bollunum hennar Tr
 Eftir að fá upprunalega skjalið frá MakerCase bætti ég við myndunum inn í Inkscape. Óheppilega gleymdi ég að taka línurnar af myndunum og nokkrar plöturnar brunnu smá en eftir að það var lagfært skar ég restina af plötunum, pússaði þær, og setti þær saman í box. Myndirnar eru af allskonar Spren úr Stormlight Archive seríunni ásamt einni mynd af rós.
 
 ![Box.jpg](Myndaskjal-hunsa%2FBox.jpg)
+
+## Símastandur
+Símastandurinn minn var fyrsta þrívíddarprentunarverkefni sem ég gerði í FabLab. Ég fann hugmyndina frá cults 3d en hannaði símastandinn minn frá grunni í TinkerCad. Þegar ég prentaði út partana fann ég út að eitt af stjórnhjólunum komst ekki fyrir en heppilega var það ekki nauðsynlegt og að standhjólið var með of mjótt gat til að passa á standin. Eftir að víkka gatið passaði það vel og virkaði vel líka. 
+
+![Simastandur.jpg](Myndaskjal-hunsa%2FSimastandur.jpg)
+
+## Kleinuhringur
+Ég hannaði seinna þrívíddarverkefnið mitt í Blender til að prófa forritið. Ég ætlaði upprunalega að búa til Slugcat úr Rain World en ákvað svo í staðin að gera kleinuhringinn sem ég var að gera til að læra á Blender.
+
+![Kleinuhringur.png](Myndaskjal-hunsa%2FKleinuhringur.png)
